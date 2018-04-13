@@ -1,7 +1,7 @@
 from PIL import Image
 import argparse
 
-#命令行输入参数处理
+
 parser = argparse.ArgumentParser()
 
 parser.add_argument('file')    #input file
